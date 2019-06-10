@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/vbondar/Documents/Skiena/10137/cmake-build-debug/CMakeFiles/10137.dir/embed.manifest"
