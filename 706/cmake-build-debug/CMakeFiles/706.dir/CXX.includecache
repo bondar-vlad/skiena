@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vbondar/Documents/Skiena/706/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+numeric
+-
+cmath
+-
+iomanip
+-
+
