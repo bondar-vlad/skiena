@@ -1,0 +1,3 @@
+C:/Users/vbondar/Documents/Skiena/10142/cmake-build-debug/CMakeFiles/10142.dir
+C:/Users/vbondar/Documents/Skiena/10142/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vbondar/Documents/Skiena/10142/cmake-build-debug/CMakeFiles/rebuild_cache.dir
