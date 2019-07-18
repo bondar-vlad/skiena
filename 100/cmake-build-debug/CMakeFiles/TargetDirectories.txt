@@ -1,3 +1,0 @@
-C:/Users/vbondar/Documents/Skiena/100/cmake-build-debug/CMakeFiles/100.dir
-C:/Users/vbondar/Documents/Skiena/100/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vbondar/Documents/Skiena/100/cmake-build-debug/CMakeFiles/rebuild_cache.dir
